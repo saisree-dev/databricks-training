@@ -9,5 +9,4 @@ This repository contains my learning journey for Databricks and SQL.
 ## Topics Covered
 - SQL Basics
 - Table Creation
-- Queries
-solved questions based on basic queries and string matching queries
+- Solved questions based on basic queries and string matching queries
