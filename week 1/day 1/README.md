@@ -5,6 +5,8 @@ This repository contains my learning journey for Databricks and SQL.
 ## Structure
 - week1
   - day1
+  - day2
+  - day3-7
 
 ## Topics Covered
 - SQL Basics
